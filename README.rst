@@ -96,7 +96,6 @@ Telegram API support
 All types and methods of the Telegram Bot API **6.2** are supported.
 
 Installing
-==========
 
 You can install or upgrade ``python-telegram-bot`` via
 
