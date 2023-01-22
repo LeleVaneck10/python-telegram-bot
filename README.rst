@@ -191,7 +191,7 @@ Donating
 ========
 Occasionally we are asked if we accept donations to support the development.
 While we appreciate the thought, maintaining PTB is our hobby, and we have almost no running costs for it. We therefore have nothing set up to accept donations.
-If you still want to donate, we kindly ask you to donate to another open source project/initiative of your choice instead.
+
 
 License
 =======
