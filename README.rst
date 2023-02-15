@@ -24,7 +24,7 @@
 
 .. image:: https://readthedocs.org/projects/python-telegram-bot/badge/?version=stable
    :target: https://docs.python-telegram-bot.org/en/stable/
-   :alt: Documentation Status
+   :alt: Documentation Status etc
 
 .. image:: https://img.shields.io/pypi/l/python-telegram-bot.svg
    :target: https://www.gnu.org/licenses/lgpl-3.0.html
